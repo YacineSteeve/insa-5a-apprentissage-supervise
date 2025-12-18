@@ -764,11 +764,11 @@ for i in samples_indices:
 
 * Résultats
     
-![png](output_43_1.png)
+![png](Shap%201.png)
     
-![png](output_43_2.png)
+![png](Shap%202.png)
     
-![png](output_43_3.png)
+![png](Shap%203.png)
 
 
 * Commentaires / analyses
